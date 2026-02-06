@@ -1,6 +1,6 @@
 ---
 title: "Mid-course Reflection (SR #2)"
-author: "Your name"
+author: "Austin Martinez"
 date: 2026-02-06
 ---
 
@@ -12,37 +12,37 @@ date: 2026-02-06
 
   - [ ] **1. How have you progressed towards your learning goals for this course?**
     
-    Your answer here
+    I have been progressing very well. I am getting a lot better at identifying which types of visualizations are best for different situations and how to not have redundant information.
     
   - [ ] **2. What skills are you proud of developing?**
     
-    Your answer here
+    I am proud of being able to develop my own custom themes now with `theme()`. This allows me so much more freedom to upgrade my data visualization any way I want. I am also glad to have been able to see examples of bad visualizations and how to not do their same mistakes.
     
   - [ ] **3. If you've needed help, how have you sought it out? If you haven't sought out help, why not?** 
         
-    Your answer here
+    Yes, I feel very comfortable asking for help in this course. I was just at Prof. Shanny-Csik's office ours last week asking for her input on my visualization for the homework.
     
   - [ ] **4. Looking forward, how have your learning goals changed? Have they stayed the same?** 
         
-    Your answer here
+    My learning goals have stayed the same. There is always room to improve the message I am conveying to my audience. To be honest this learning goal will probably remain the rest of my life.
     
   - [ ] **5. What topics have excited you the most (so far)? Have you spent time or efforts outside of class and / or the assignments diving deeper into any of these topics? If yes, what did you learn?** 
         
-    Your answer here
+    The custom themes have definitely exited me the most so far. Yes, I actually used custom themes in my last assignment to make a lollipop graph and have each line display the value next to it.
 
 ## (Optional) Share any feedback you might have about the class
     
   - [ ] **1. How would you change the structure of this course, if at all? If you wouldn't, what in particular about the structure has been working well for you?** 
         
-    Your answer here
+    I honestly really like the structure of this class, but if there was one thing I had to choose I would probably not make the lecture one day for such a long time. This is a useful class and a lot of important visualization techniques are taught and I find it a little hard at times to stay locked in for the entire class.
     
   - [ ] **2. Is there anything about this course that you are really enjoying? Anything that isn't working for you?** 
         
-    Your answer here
+    I am enjoying every part of this class to be honest, I really don't have any complaints. I think the other Winter Quarter MEDS professors should try and implement this style of teaching because we find it very helpful. I love the live coding and how interactive this class is.
     
   - [ ] **3. What else would you like me to know about your experience in the course thus far?** 
         
-    Your answer here
+    I like this class! I am having fun doing data visualization. I like seeing examples of bad visualizations and thinking indepth about what is wrong with them.
 
 
     
